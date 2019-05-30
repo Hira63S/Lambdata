@@ -12,3 +12,5 @@ pandas = "*"
 
 [requires]
 python_version = "3.7"
+
+#we want pandas great than 2
